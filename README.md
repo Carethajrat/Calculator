@@ -1,2 +1,2 @@
 # Calculator
-Basic Calculator jQuery.
+Basic Calculator using jQuery.
